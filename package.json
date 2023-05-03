@@ -1,6 +1,6 @@
 {
-  "name": "homebridge-tuya-platform-talrhvfork",
-  "version": "1.5.7",
+  "name": "homebridge-tuya-platform-Zoock",
+  "version": "1.6.0",
   "description": "Official Homebridge plugin for Tuya Open API - talrhv fork, maintained by talrhv.",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   ],
   "author": "huhuan",
   "license": "MIT",
-  "homepage": "https://github.com/talrhv/tuya-homebridge",
+  "homepage": "https://github.com/barzoock/Second-tuya-homebridge",
   "engines": {
     "node": ">=14.0.0",
     "homebridge": ">=1.0.0"
@@ -28,9 +28,5 @@
     "string-cipher": "^1.0.8",
     "text-encoding": "^0.7.0",
     "uuid": "^8.3.2"
-  },
-  "funding": {
-    "type" : "paypal",
-    "url" : "https://www.paypal.me/talrhv"
   }
 }
