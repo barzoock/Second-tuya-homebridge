@@ -1,5 +1,5 @@
 {
-	"pluginAlias": "TuyaPlatform",
+	"pluginAlias": "TuyaPlatform2",
 	"pluginType": "platform",
 	"singular": true,
 	"headerDisplay": "Official Tuya Homebridge plugin, supported by Tuya Developers.",
@@ -11,7 +11,7 @@
 				"title": "Name",
 				"type": "string",
 				"required": true,
-				"default": "TuyaPlatform",
+				"default": "TuyaPlatform2",
 				"description": "You shouldn't need to change this."
 			},
 			"options": {
